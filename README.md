@@ -37,6 +37,4 @@ Para começar a usar a API, siga os passos abaixo:
 
    #Start 
    1. cd ui-twitter
-   2. pnpm run dev: pnpm 
-   2. npm run dev: npm 
-   2. yarn start: yarn 
+   2. pnpm run dev: pnpm...
