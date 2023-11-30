@@ -3,13 +3,17 @@ import React from 'react';
 import Button from '../Button';
 
 import {
+  Avatar,
   BellIcon,
+  Botside,
   Container,
   EmailIcon,
+  ExitIcon,
   FavoriteIcon,
   HomeIcon,
   Logo,
   MenuButton,
+  ProfileData,
   ProfileIcon,
   Topside
 } from './styles';
@@ -48,8 +52,18 @@ const MenuBar: React.FC = () => {
         <Button>
           <span>Tweetar</span>
         </Button>
-
       </Topside>
+
+      <Botside>
+        <Avatar />
+
+        <ProfileData>
+          <strong>Kayke Barbosa</strong>
+          <span>@kaykee_bl</span>
+        </ProfileData>
+
+        <ExitIcon />
+      </Botside>
     </Container>
   );
 }
