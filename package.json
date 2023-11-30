@@ -1,5 +1,6 @@
 {
   "name": "ui-twitter",
+  "author": "Kayke Barbosa @Kayke-TI",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +12,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.2.0", 
     "react-sticky-box": "^2.0.5",
     "styled-components": "^6.1.1",
     "styled-icons": "^10.47.0"
