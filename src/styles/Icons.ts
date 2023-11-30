@@ -1,3 +1,4 @@
+export { Twitter } from 'styled-icons/boxicons-logos';
 export { ArrowLeft } from 'styled-icons/heroicons-solid';
 export { ChatboxEllipses } from 'styled-icons/ionicons-sharp';
 export { Cake, Favorite, Person } from 'styled-icons/material';
